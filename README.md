@@ -8,5 +8,5 @@
 # Рекомендации
 Язык написание программы Python версии 3.9.1. Рекодуемая среда IDLE 
 # Скриншот выполнения программы
-![test_lab2](https://user-images.githubusercontent.com/113433209/190891246-66d2e0d8-6f49-4a59-9745-10bc0e7abb46.jpg)
+![test_lab2](https://user-images.githubusercontent.com/113433209/190891334-05da8654-373d-465b-8ce7-45d4f7ed659e.jpg)
 
