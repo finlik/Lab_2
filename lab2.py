@@ -124,3 +124,8 @@ else:
         else:
             call5 = 'рубль'
         print (call1, call2, call3, call4, call5)
+        
+
+
+   
+        
